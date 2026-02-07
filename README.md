@@ -10,6 +10,6 @@ Algorithmic problems shouldn't be a black box. Our goal is to provide **simple a
 ## 🙌 Connect & Support
 If these visual guides make coding feel easy, help us grow:
 - **Star** ⭐ this repository to save it for your interview prep.
-- **Subscribe** 🔴 to [BroccoliCode on YouTube](https://youtube.com@BroccoliCode) for weekly visual tutorials!
+- **Subscribe** 🔴 to [BroccoliCode on YouTube](https://www.youtube.com/@BroccoliCode) for weekly visual tutorials!
 
 *Happy Coding!* 🥦
